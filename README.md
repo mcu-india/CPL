@@ -2,6 +2,7 @@
 C Programming Language Assignments
 
 Join the class on classroom.google.com, class code: 7ytfaqj
+Send an email to achindrabhatnagar@gmail.com to get access.
 
 * Create your work directory inside the section
   - https://github.com/mcu-india/CPL/Basics/<_user_>
