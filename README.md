@@ -5,7 +5,7 @@ Join the class on classroom.google.com, class code: 7ytfaqj
 Send an email to achindrabhatnagar@gmail.com to get access.
 
 * Create your work directory inside the section
-  - https://github.com/mcu-india/CPL/Basics/<_user_>
+  - https://github.com/mcu-india/CPL/tree/master/Basics/<_user_>
 * Always add a README.md in <user> directory
 * Use Nouns for variables and Verbs for Fuctions
 * Document your code
