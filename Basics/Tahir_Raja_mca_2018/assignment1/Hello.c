@@ -1,8 +1,12 @@
-#include<stdio.h>          //stdio.h is a preprocessed code which includes standard I/O functions printf() ad scanf()//
+#include<stdio.h>                  /* #include<stdio.h> is a preprocessor commond. stdio.h file contain function printf() and scanf()*/
 
-int main(){
 
-	printf("HelloWorld!!");
+int main()                        /* execution start main()  */
+{
 
-	return 0;
+	printf("HelloWorld!!");   /* printf() is a library function to print the message and semicolon indicates the end of statement*/
+
+
+	return 0;                /* program ends withthis statement*/
+
 }

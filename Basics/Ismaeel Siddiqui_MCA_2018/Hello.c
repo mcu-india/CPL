@@ -3,12 +3,13 @@
 
 //Starting main function
 
-void main()
+int main()
 {  
 	// Using output function to print hello world
 	
-	printf("Hello World!");
+	printf("Hello World!\n");
 
+return 0;
 
 }
 
