@@ -1,6 +1,6 @@
 /* Description : in this is program of print Hello world with comment
  * programmer  : Kamlesh gupta MCA 2017
- * Date        : 07-09-2018
+ * Date        : 07-09-2018 */
 
 #include<stdio.h>                           //This is a header file for input output function
 
